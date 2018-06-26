@@ -4,6 +4,11 @@ Related Redmine
 Show Redmine issues related by the displayed page.
 You can watch the progress of your own Redmine project from wiki, mail, github with one click.
 
+
+[Chrome Web Store](https://chrome.google.com/webstore/detail/related-redmine/kmgkdpnmpjmncggngjcinmkfacbgaecj)
+
+
+
 ![Related Redmine](img/tile.png)
 
 ![Screenshot 1](img/screenshot.png)
