@@ -37,7 +37,7 @@ You can watch the progress of your own Redmine project from wiki, mail, github w
 `1` of cf_1 is custom field id.
 
 
-### Gmail
+### Gmail (for private ticket)
 
 | Name               | Value         |
 | ------------------ | ------------- |
