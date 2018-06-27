@@ -14,6 +14,20 @@ You can watch the progress of your own Redmine project from wiki, mail, github w
 ![Screenshot 1](img/screenshot.png)
 
 
+Note: Needs Redmine Server Settings
+```
+# allow this extension only
+Header always set Access-Control-Allow-Origin "chrome-extension://kmgkdpnmpjmncggngjcinmkfacbgaecj"
+```
+or
+```
+# allow all
+Header always set Access-Control-Allow-Origin "*"
+```
+in apache conf.
+
+
+
 ## Setting Images
 
 ![Custom Feild Setting](img/redmine-custom-field.png)
@@ -22,6 +36,7 @@ You can watch the progress of your own Redmine project from wiki, mail, github w
 
 
 ## Sample Settings
+
 
 ### Github
 
