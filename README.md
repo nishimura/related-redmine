@@ -52,12 +52,14 @@ in apache conf.
 `1` of cf_1 is custom field id.
 
 
-### Gmail (for private ticket)
+### Gmail (for private ticket in all products)
 
 | Name               | Value         |
 | ------------------ | ------------- |
 | Trigger page url   | https://mail.google.com/ |
 | Trigger pattern    | /([^/]+)$      |
+| Redmine parent url | https://redmine.example.com/issues.xml?status_id=*&cf_1=%value% |
+| Redmine child url  | https://redmine.example.com/issues.xml?status_id=*&parent_id=%value% |
 
 
 ### Other BTS, Wiki, etc.
