@@ -52,7 +52,7 @@ in apache conf.
 `1` of cf_1 is custom field id.
 
 
-### Gmail (for private ticket in all products)
+### Gmail (for private ticket in all projects)
 
 | Name               | Value         |
 | ------------------ | ------------- |
