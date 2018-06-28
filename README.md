@@ -57,7 +57,7 @@ in apache conf.
 | Name               | Value         |
 | ------------------ | ------------- |
 | Trigger page url   | https://mail.google.com/ |
-| Trigger pattern    | #[^/]+/([^/]+)      |
+| Trigger pattern    | /([^/]+)$      |
 
 
 ### Other BTS, Wiki, etc.
