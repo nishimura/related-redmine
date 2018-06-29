@@ -70,6 +70,10 @@ in apache conf.
 | Trigger pattern    | issues/([0-9a-zA-Z]+)      |
 
 
+## Note
+
+Not support to link of multiple repositories, because not suport in Redmine REST API.
+
 
 ## Logo Licence
 
